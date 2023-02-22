@@ -16,3 +16,6 @@ Built upon provided sample code as part of a first year assignment, this reposit
 * To run the Bagging system, compile and run RunProductionSystem.java (note: it is compatible with Java 1.8+; it’s also ready to build in IntelliJ).
 * The group of files with names beginning `Basic` implement a basic algorithm for Bagging whereas any with `Improved` refer to my improved production rules.
 * Each of the files is a separate Production rule (note: they all extend Production.java).
+
+## Special mention
+Huge thanks to the folks teaching at The UoSheffield, specifically the Machines&Intellgience course, for a super interesting assignment!
